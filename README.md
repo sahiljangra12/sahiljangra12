@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Sahil: data science for climate, health and sustainability" width="100%">
+  <img src="assets/banner-light.svg" alt="Sahil: Research and Data Science" width="100%">
 </picture>
 
 I'm a data science graduate student at Johns Hopkins. I use data to study how countries and cities balance development against pressure on the planet, and I'm increasingly focused on making machine learning **trustworthy**: fair, interpretable and robust.
