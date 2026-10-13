@@ -21,29 +21,29 @@ Builds a Planetary Pressure Index for 182 countries, groups countries by develop
 <sub>Python · scikit-learn · pandas · pytest · GitHub Actions</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/sahiljangra12/mumbai-aqi-prediction"><img src="https://raw.githubusercontent.com/sahiljangra12/mumbai-aqi-prediction/main/assets/next-day-forecast.png" alt="Next-day AQI forecast"></a>
-<h3><a href="https://github.com/sahiljangra12/mumbai-aqi-prediction">Mumbai Air Quality Forecasting</a></h3>
+<a href="https://github.com/sahiljangra12/Academic-Projects/tree/main/01-mumbai-aqi-forecasting"><img src="https://raw.githubusercontent.com/sahiljangra12/Academic-Projects/main/01-mumbai-aqi-forecasting/assets/next-day-forecast.png" alt="Next-day AQI forecast"></a>
+<h3><a href="https://github.com/sahiljangra12/Academic-Projects/tree/main/01-mumbai-aqi-forecasting">Mumbai Air Quality Forecasting</a></h3>
 Explains, flags and forecasts daily AQI. A next-day model cuts error by 30% compared with a persistence baseline and gives a day's warning for most high-pollution days.<br>
 <sub>Python · scikit-learn · time-series validation</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/sahiljangra12/people-analytics-case-studies"><img src="https://raw.githubusercontent.com/sahiljangra12/people-analytics-case-studies/main/assets/case1-coefficients.png" alt="Hiring model coefficients"></a>
-<h3><a href="https://github.com/sahiljangra12/people-analytics-case-studies">People Analytics Case Studies</a></h3>
+<a href="https://github.com/sahiljangra12/Academic-Projects/tree/main/02-people-analytics"><img src="https://raw.githubusercontent.com/sahiljangra12/Academic-Projects/main/02-people-analytics/assets/case1-coefficients.png" alt="Hiring model coefficients"></a>
+<h3><a href="https://github.com/sahiljangra12/Academic-Projects/tree/main/02-people-analytics">People Analytics Case Studies</a></h3>
 Three HR-analytics cases: a cross-validated hiring model that flags bias-risk predictors, factor analysis of an engagement survey, and an integer-programming workforce plan.<br>
 <sub>Logistic regression · PCA · linear programming</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/sahiljangra12/Academic-Projects"><img src="https://raw.githubusercontent.com/sahiljangra12/Academic-Projects/main/assets/thumb-01.jpg" alt="SDG Power BI dashboard"></a>
+<a href="https://github.com/sahiljangra12/Academic-Projects"><img src="https://raw.githubusercontent.com/sahiljangra12/Academic-Projects/main/assets/thumb-sdg-dashboard.jpg" alt="SDG Power BI dashboard"></a>
 <h3><a href="https://github.com/sahiljangra12/Academic-Projects">Academic Projects</a></h3>
-SDG dashboards in Power BI and Excel, energy profiles, speech signal processing, a MATLAB hurricane-damage analysis and linear programming models.<br>
+Twelve TISS projects: machine learning, survey statistics, people analytics, SDG dashboards in Power BI and Excel, optimisation and policy reports.<br>
 <sub>Power BI · Excel · Python · MATLAB</sub>
 </td>
 </tr>
 </table>
 
-**Also:** [Uttarakhand Health Survey Analytics](https://github.com/sahiljangra12/uttarakhand-health-survey-analytics): survey-weighted analysis of government health and consumption microdata, covering hospital use, out-of-pocket costs and tobacco spending.
+**Also:** [Uttarakhand Health Survey Analytics](https://github.com/sahiljangra12/Academic-Projects/tree/main/03-health-survey-analytics): survey-weighted analysis of government health and consumption microdata, covering hospital use, out-of-pocket costs and tobacco spending.
 
 ## Toolkit
 
