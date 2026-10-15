@@ -25,29 +25,29 @@ A Planetary Pressure Index for 182 countries, pressure–development clusters, a
 <br><br><sub>Python · scikit-learn · pytest · GitHub Actions</sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/sahiljangra12/energy-transition-analysis"><img src="assets/covers/energy.jpg" alt="Renewable electricity share, 2000–2021"></a>
+<h3><a href="https://github.com/sahiljangra12/energy-transition-analysis">Energy Transition and Development</a></h3>
+Renewable energy across 215 countries, 2000–2021: the typical country's renewable electricity share doubled, and "renewable share" tells opposite stories about income for electricity and for all energy. With an <a href="https://sahiljangra12.github.io/energy-transition-analysis/">interactive dashboard</a>.
+<br><br><sub>Python · World Bank and UN SDG data · Plotly · GitHub Actions</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/sahiljangra12/Academic-Projects/tree/main/01-mumbai-aqi-forecasting"><img src="assets/covers/aqi.jpg" alt="Next-day AQI forecast"></a>
 <h3><a href="https://github.com/sahiljangra12/Academic-Projects/tree/main/01-mumbai-aqi-forecasting">Mumbai Air Quality Forecasting</a></h3>
 Explains, flags and forecasts daily AQI. The next-day model cuts error by 30% compared with a persistence baseline and warned a day ahead for 19 of 28 high-pollution days.
 <br><br><sub>Python · scikit-learn · time-ordered validation</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/sahiljangra12/Academic-Projects/tree/main/03-health-survey-analytics"><img src="assets/covers/health-survey.jpg" alt="Household health spending by consumption quintile"></a>
 <h3><a href="https://github.com/sahiljangra12/Academic-Projects/tree/main/03-health-survey-analytics">Health Survey Analytics</a></h3>
 Survey-weighted analysis of Indian government microdata for Uttarakhand: hospital use, out-of-pocket costs, and whether tobacco spending crowds out health spending.
 <br><br><sub>Python · survey weights · NSS / HCES microdata</sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/sahiljangra12/Academic-Projects/tree/main/02-people-analytics"><img src="assets/covers/people-analytics.jpg" alt="People analytics poster"></a>
-<h3><a href="https://github.com/sahiljangra12/Academic-Projects/tree/main/02-people-analytics">People Analytics</a></h3>
-A cross-validated hiring model that flags bias-risk predictors, factor analysis of an engagement survey, and an integer-programming hiring plan for a hospital network.
-<br><br><sub>Python · logistic regression · PCA · linear programming</sub>
-</td>
 </tr>
 </table>
 
-**More projects:** [Neural spike sorting](https://github.com/sahiljangra12/Academic-Projects/tree/main/13-neural-spike-sorting) · [SDG dashboard in Power BI](https://github.com/sahiljangra12/Academic-Projects/tree/main/05-sdg-powerbi-dashboard) · [BRICS sustainability report](https://github.com/sahiljangra12/Academic-Projects/tree/main/06-brics-sdg-report) · [SAARC SDG indicators](https://github.com/sahiljangra12/Academic-Projects/tree/main/07-saarc-sdg-dashboard) · [Energy profiles](https://github.com/sahiljangra12/Academic-Projects/tree/main/08-energy-profile-dashboards) · [Speech signal processing](https://github.com/sahiljangra12/Academic-Projects/tree/main/04-speech-signal-processing) · [Hurricane damage in MATLAB](https://github.com/sahiljangra12/Academic-Projects/tree/main/09-storm-events-analysis-matlab) · [Optimisation models](https://github.com/sahiljangra12/Academic-Projects/tree/main/10-optimization-real-world-problems)
+**More projects:** [People analytics](https://github.com/sahiljangra12/Academic-Projects/tree/main/02-people-analytics) · [Neural spike sorting](https://github.com/sahiljangra12/Academic-Projects/tree/main/13-neural-spike-sorting) · [SDG dashboard in Power BI](https://github.com/sahiljangra12/Academic-Projects/tree/main/05-sdg-powerbi-dashboard) · [BRICS sustainability report](https://github.com/sahiljangra12/Academic-Projects/tree/main/06-brics-sdg-report) · [SAARC SDG indicators](https://github.com/sahiljangra12/Academic-Projects/tree/main/07-saarc-sdg-dashboard) · [Energy profiles](https://github.com/sahiljangra12/Academic-Projects/tree/main/08-energy-profile-dashboards) · [Speech signal processing](https://github.com/sahiljangra12/Academic-Projects/tree/main/04-speech-signal-processing) · [Hurricane damage in MATLAB](https://github.com/sahiljangra12/Academic-Projects/tree/main/09-storm-events-analysis-matlab) · [Optimisation models](https://github.com/sahiljangra12/Academic-Projects/tree/main/10-optimization-real-world-problems)
 
 ## Toolkit
 
