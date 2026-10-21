@@ -12,11 +12,12 @@
 
 I'm a data science graduate student at Johns Hopkins. I study how countries and cities balance development against pressure on the planet, using survey data, statistical models and machine learning, and I care about making that machine learning **trustworthy**: fair, interpretable and robust.
 
-**New:** [Baltimore Heat Atlas](https://github.com/sahiljangra12/baltimore-heat-atlas), a validated heat vulnerability index for Baltimore's 198 census tracts, with a paper and a live dashboard.
+**New:**
+- [Global Sustainability Explorer](https://github.com/sahiljangra12/global-sustainability-explorer): one free, citable place to explore UN SDG, World Bank and Our World in Data indicators for all 17 goals, refreshed weekly, with a live UN and sustainability news feed.
+- [Baltimore Heat Atlas](https://github.com/sahiljangra12/baltimore-heat-atlas): a validated heat vulnerability index for Baltimore's 198 census tracts, with a paper and a live dashboard.
+- Working paper: [Social Shortfall, Climate Overshoot and the Falling Carbon Cost of Development](https://github.com/sahiljangra12/planetary-pathways/blob/main/paper/main.pdf) (114 countries, 1990–2022), with a full replication package.
 
-**New working paper:** [Social Shortfall, Climate Overshoot and the Falling Carbon Cost of Development](https://github.com/sahiljangra12/planetary-pathways/blob/main/paper/main.pdf) (114 countries, 1990–2022), with a full replication package.
-
-**Live:** [Baltimore Heat Atlas](https://sahiljangra12.github.io/baltimore-heat-atlas/) · [Planetary pressure chart](https://sahiljangra12.github.io/Thesis/) · [Energy transition dashboard](https://sahiljangra12.github.io/energy-transition-analysis/) · [SDG Explorer India](https://sahiljangra12.github.io/sdg-explorer-india/)
+**Live:** [Global Sustainability Explorer](https://sahiljangra12.github.io/global-sustainability-explorer/) · [Baltimore Heat Atlas](https://sahiljangra12.github.io/baltimore-heat-atlas/) · [Energy transition dashboard](https://sahiljangra12.github.io/energy-transition-analysis/) · [SDG Explorer India](https://sahiljangra12.github.io/sdg-explorer-india/) · [Planetary pressure chart](https://sahiljangra12.github.io/Thesis/)
 
 ## Featured research
 
@@ -49,26 +50,35 @@ Can countries meet basic needs within a fair share of the climate boundary? Acro
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<a href="https://github.com/sahiljangra12/Thesis"><img src="assets/covers/thesis.jpg" alt="Planetary Pressure Index vs life expectancy"></a>
-<h3><a href="https://github.com/sahiljangra12/Thesis">Planetary Boundaries and Development</a></h3>
-A Planetary Pressure Index for 182 countries, pressure–development clusters, and how countries moved between them from 1990 to 2023.
-<br><br><a href="https://sahiljangra12.github.io/Thesis/"><b>Interactive chart →</b></a>
-<br><sub>Python · scikit-learn · pytest · GitHub Actions</sub>
+<td width="50%" valign="top">
+<a href="https://sahiljangra12.github.io/global-sustainability-explorer/"><img src="assets/covers/global-explorer.jpg" alt="Global Sustainability Explorer: world map of CO2 emissions per person"></a>
+<h3><a href="https://github.com/sahiljangra12/global-sustainability-explorer">Global Sustainability Explorer</a></h3>
+Explore, compare and cite sustainability data for all 17 goals: drill from goal to target, indicator and breakdown, and from world to region to country, for any year range. A weekly pipeline re-downloads only the series whose release changed, validates them and keeps the last good copy; UN and conference news refreshes every 3 hours.
+<br><br><a href="https://sahiljangra12.github.io/global-sustainability-explorer/"><b>Explorer →</b></a>
+<br><sub>Python · UN SDG API · World Bank WDI · OWID · Parquet · GitHub Actions · Observable Plot</sub>
 </td>
-<td width="33%" valign="top">
-<a href="https://github.com/sahiljangra12/energy-transition-analysis"><img src="assets/covers/energy.jpg" alt="Renewable electricity share, 2000–2021"></a>
-<h3><a href="https://github.com/sahiljangra12/energy-transition-analysis">Energy Transition and Development</a></h3>
-Renewable energy across 215 countries, 2000–2021: the typical country's renewable electricity share doubled, and "renewable share" tells opposite stories about income for electricity and for all energy.
-<br><br><a href="https://sahiljangra12.github.io/energy-transition-analysis/"><b>Dashboard →</b></a>
-<br><sub>Python · World Bank and UN SDG data · Plotly</sub>
-</td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <a href="https://github.com/sahiljangra12/sdg-explorer-india"><img src="assets/covers/sdg-india.jpg" alt="SDG India Index by State and Union Territory"></a>
 <h3><a href="https://github.com/sahiljangra12/sdg-explorer-india">SDG Explorer India</a></h3>
 India's progress on all 17 goals from four official sources: 51,700 values, national series back to 1977 and 704 districts, with every gap shown rather than filled.
 <br><br><a href="https://sahiljangra12.github.io/sdg-explorer-india/"><b>Explorer →</b></a>
 <br><sub>Python · PDF table extraction · validation · Plotly</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/sahiljangra12/energy-transition-analysis"><img src="assets/covers/energy.jpg" alt="Renewable electricity share, 2000–2021"></a>
+<h3><a href="https://github.com/sahiljangra12/energy-transition-analysis">Energy Transition and Development</a></h3>
+Renewable energy across 215 countries: the typical country's renewable electricity share doubled from 2000 to 2021, and "renewable share" tells opposite stories about income for electricity and for all energy. The dashboard explores any country's electricity mix through 2024.
+<br><br><a href="https://sahiljangra12.github.io/energy-transition-analysis/"><b>Dashboard →</b></a> &nbsp;·&nbsp; <a href="https://github.com/sahiljangra12/energy-transition-analysis/blob/main/docs/technical-report/energy_transition_technical_report.pdf"><b>Report (PDF) →</b></a>
+<br><sub>Python · World Bank and UN SDG data · regression · Plotly</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/sahiljangra12/Thesis"><img src="assets/covers/thesis.jpg" alt="Planetary Pressure Index vs life expectancy"></a>
+<h3><a href="https://github.com/sahiljangra12/Thesis">Planetary Boundaries and Development</a></h3>
+My undergraduate thesis: a Planetary Pressure Index for 182 countries, pressure–development clusters, and how countries moved between them from 1990 to 2023.
+<br><br><a href="https://sahiljangra12.github.io/Thesis/"><b>Interactive chart →</b></a>
+<br><sub>Python · scikit-learn · pytest · GitHub Actions</sub>
 </td>
 </tr>
 </table>
@@ -98,7 +108,7 @@ A cross-validated hiring model that flags bias-risk predictors, factor analysis 
 </tr>
 </table>
 
-**More projects:** [Neural spike sorting](https://github.com/sahiljangra12/Academic-Projects/tree/main/13-neural-spike-sorting) · [SDG dashboard in Power BI](https://github.com/sahiljangra12/Academic-Projects/tree/main/05-sdg-powerbi-dashboard) · [BRICS sustainability report](https://github.com/sahiljangra12/Academic-Projects/tree/main/06-brics-sdg-report) · [SAARC SDG indicators](https://github.com/sahiljangra12/Academic-Projects/tree/main/07-saarc-sdg-dashboard) · [Energy profiles](https://github.com/sahiljangra12/Academic-Projects/tree/main/08-energy-profile-dashboards) · [Uttarakhand forest fires](https://github.com/sahiljangra12/Academic-Projects/tree/main/11-uttarakhand-forest-fires-2016) · [Speech signal processing](https://github.com/sahiljangra12/Academic-Projects/tree/main/04-speech-signal-processing) · [Hurricane damage in MATLAB](https://github.com/sahiljangra12/Academic-Projects/tree/main/09-storm-events-analysis-matlab) · [Optimisation models](https://github.com/sahiljangra12/Academic-Projects/tree/main/10-optimization-real-world-problems) · [Social impact assessment](https://github.com/sahiljangra12/Academic-Projects/tree/main/12-sabla-social-impact-assessment) · **[All 13 →](https://github.com/sahiljangra12/Academic-Projects)**
+**More projects:** [Classical and adversarial search agent](https://github.com/sahiljangra12/ai-search-and-adversarial-agent) (BFS, DFS, A*, minimax; JHU Artificial Intelligence) · [Neural spike sorting](https://github.com/sahiljangra12/Academic-Projects/tree/main/13-neural-spike-sorting) · [SDG dashboard in Power BI](https://github.com/sahiljangra12/Academic-Projects/tree/main/05-sdg-powerbi-dashboard) · [BRICS sustainability report](https://github.com/sahiljangra12/Academic-Projects/tree/main/06-brics-sdg-report) · [SAARC SDG indicators](https://github.com/sahiljangra12/Academic-Projects/tree/main/07-saarc-sdg-dashboard) · [Energy profiles](https://github.com/sahiljangra12/Academic-Projects/tree/main/08-energy-profile-dashboards) · [Uttarakhand forest fires](https://github.com/sahiljangra12/Academic-Projects/tree/main/11-uttarakhand-forest-fires-2016) · [Speech signal processing](https://github.com/sahiljangra12/Academic-Projects/tree/main/04-speech-signal-processing) · [Hurricane damage in MATLAB](https://github.com/sahiljangra12/Academic-Projects/tree/main/09-storm-events-analysis-matlab) · [Optimisation models](https://github.com/sahiljangra12/Academic-Projects/tree/main/10-optimization-real-world-problems) · [Social impact assessment](https://github.com/sahiljangra12/Academic-Projects/tree/main/12-sabla-social-impact-assessment) · **[All 13 →](https://github.com/sahiljangra12/Academic-Projects)**
 
 ## Toolkit
 
