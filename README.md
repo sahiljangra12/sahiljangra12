@@ -12,15 +12,26 @@
 
 I'm a data science graduate student at Johns Hopkins. I study how countries and cities balance development against pressure on the planet, using survey data, statistical models and machine learning, and I care about making that machine learning **trustworthy**: fair, interpretable and robust.
 
-**Now:** building a neighbourhood-level heat-health risk index for Baltimore.
+**New:** [Baltimore Heat Atlas](https://github.com/sahiljangra12/baltimore-heat-atlas), a validated heat vulnerability index for Baltimore's 198 census tracts, with a paper and a live dashboard.
 
 **New working paper:** [Social Shortfall, Climate Overshoot and the Falling Carbon Cost of Development](https://github.com/sahiljangra12/planetary-pathways/blob/main/paper/main.pdf) (114 countries, 1990–2022), with a full replication package.
 
-**Live:** [Planetary pressure chart](https://sahiljangra12.github.io/Thesis/) · [Energy transition dashboard](https://sahiljangra12.github.io/energy-transition-analysis/) · [SDG Explorer India](https://sahiljangra12.github.io/sdg-explorer-india/)
+**Live:** [Baltimore Heat Atlas](https://sahiljangra12.github.io/baltimore-heat-atlas/) · [Planetary pressure chart](https://sahiljangra12.github.io/Thesis/) · [Energy transition dashboard](https://sahiljangra12.github.io/energy-transition-analysis/) · [SDG Explorer India](https://sahiljangra12.github.io/sdg-explorer-india/)
 
-## Working paper
+## Featured research
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/sahiljangra12/baltimore-heat-atlas"><img src="assets/covers/baltimore-heat.jpg" alt="Heat Vulnerability Index for Baltimore City census tracts and the probability each ranks in the top 20%"></a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/sahiljangra12/baltimore-heat-atlas">Baltimore Heat Atlas: Where Heat Meets Vulnerability</a></h3>
+Which Baltimore neighbourhoods are most at risk in summer heat? Seven summers of Landsat and MODIS heat, CDC PLACES health and ACS 2020–2024 data rank 198 census tracts. Ground temperature where people live ranges from 35.7 to 47.5 °C. Tree cover tracks it at ρ = −0.88, and areas redlined in 1937 run 4.4 °C hotter. The index tracks heat-related EMS calls (ρ = 0.69); the CDC Social Vulnerability Index does not (ρ = 0.27).
+<br><br><a href="https://sahiljangra12.github.io/baltimore-heat-atlas/"><b>Live dashboard →</b></a> &nbsp;·&nbsp; <a href="https://github.com/sahiljangra12/baltimore-heat-atlas/blob/main/paper/Baltimore_Heat_Vulnerability_Sahil_2026.pdf"><b>Paper (PDF) →</b></a>
+<br><sub>Python · Landsat / MODIS · GeoPandas · rasterio · PySAL · Monte Carlo · d3.js · LaTeX</sub>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/sahiljangra12/planetary-pathways"><img src="assets/covers/carbon-cost.jpg" alt="CO2 per person at which half of countries meet the social thresholds, 1991–2022"></a>
