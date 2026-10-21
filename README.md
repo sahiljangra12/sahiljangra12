@@ -23,7 +23,7 @@ I'm a data science graduate student at Johns Hopkins. I study how countries and 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/sahiljangra12/baltimore-heat-atlas"><img src="assets/covers/baltimore-heat.jpg" alt="Heat Vulnerability Index for Baltimore City census tracts and the probability each ranks in the top 20%"></a>
+<a href="https://sahiljangra12.github.io/baltimore-heat-atlas/"><img src="assets/covers/baltimore-heat.jpg" alt="Baltimore Heat Atlas dashboard: census tracts glowing by summer surface temperature"></a>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/sahiljangra12/baltimore-heat-atlas">Baltimore Heat Atlas: Where Heat Meets Vulnerability</a></h3>
