@@ -14,7 +14,25 @@ I'm a data science graduate student at Johns Hopkins. I study how countries and 
 
 **Now:** building a neighbourhood-level heat-health risk index for Baltimore.
 
+**New working paper:** [Social Shortfall, Climate Overshoot and the Falling Carbon Cost of Development](https://github.com/sahiljangra12/planetary-pathways/blob/main/paper/main.pdf) (114 countries, 1990–2022), with a full replication package.
+
 **Live:** [Planetary pressure chart](https://sahiljangra12.github.io/Thesis/) · [Energy transition dashboard](https://sahiljangra12.github.io/energy-transition-analysis/) · [SDG Explorer India](https://sahiljangra12.github.io/sdg-explorer-india/)
+
+## Working paper
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/sahiljangra12/planetary-pathways"><img src="assets/covers/carbon-cost.jpg" alt="CO2 per person at which half of countries meet the social thresholds, 1991–2022"></a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/sahiljangra12/planetary-pathways">Social Shortfall, Climate Overshoot and the Falling Carbon Cost of Development</a></h3>
+Can countries meet basic needs within a fair share of the climate boundary? Across 114 countries from 1990 to 2022, none met four social thresholds while emitting under 1.61 t CO₂ per person. The CO₂ at which half of countries meet them fell from about 26 t to 8.5 t, still 5.3 times the boundary, and only 2 of 41 decoupling countries are cutting fast enough to reach it by 2050.
+<br><br><a href="https://github.com/sahiljangra12/planetary-pathways/blob/main/paper/main.pdf"><b>Read the paper (PDF) →</b></a>
+<br><sub>Python · statsmodels · linearmodels · cluster bootstrap · LaTeX · pytest · fully reproducible</sub>
+</td>
+</tr>
+</table>
 
 ## Research projects
 
