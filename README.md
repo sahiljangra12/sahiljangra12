@@ -13,15 +13,37 @@
 I'm a data science graduate student at Johns Hopkins. I study how countries and cities balance development against pressure on the planet, using survey data, statistical models and machine learning, and I care about making that machine learning **trustworthy**: fair, interpretable and robust.
 
 **New:**
-- [Global Sustainability Explorer](https://github.com/sahiljangra12/global-sustainability-explorer): one free, citable place to explore UN SDG, World Bank and Our World in Data indicators for all 17 goals, refreshed weekly, with a live UN and sustainability news feed.
-- [Baltimore Heat Atlas](https://github.com/sahiljangra12/baltimore-heat-atlas): a validated heat vulnerability index for Baltimore's 198 census tracts, with a paper and a live dashboard.
-- Working paper: [Social Shortfall, Climate Overshoot and the Falling Carbon Cost of Development](https://github.com/sahiljangra12/planetary-pathways/blob/main/paper/main.pdf) (114 countries, 1990–2022), with a full replication package.
+- [Charm City Pulse](https://sahiljangra12.github.io/charm-city-pulse/): a live app for Baltimore. It answers "is it safe to be outside today?" and "how does my block compare?", and points people to the nearest cooling or warming center. Its data rebuilds itself every morning.
+- [Do new street trees cool Baltimore?](https://github.com/sahiljangra12/baltimore-tree-cooling): a causal event study of 20 years of Landsat data and the city's tree inventory. Each young street tree cools its block measurably within a decade.
+- [Baltimore Heat Atlas](https://github.com/sahiljangra12/baltimore-heat-atlas): a validated heat vulnerability index for Baltimore's census tracts, with a paper and a live dashboard.
 
-**Live:** [Global Sustainability Explorer](https://sahiljangra12.github.io/global-sustainability-explorer/) · [Baltimore Heat Atlas](https://sahiljangra12.github.io/baltimore-heat-atlas/) · [Energy transition dashboard](https://sahiljangra12.github.io/energy-transition-analysis/) · [SDG Explorer India](https://sahiljangra12.github.io/sdg-explorer-india/) · [Planetary pressure chart](https://sahiljangra12.github.io/Thesis/)
+**Live:** [Charm City Pulse](https://sahiljangra12.github.io/charm-city-pulse/) · [Baltimore Heat Atlas](https://sahiljangra12.github.io/baltimore-heat-atlas/) · [Global Sustainability Explorer](https://sahiljangra12.github.io/global-sustainability-explorer/) · [Energy transition dashboard](https://sahiljangra12.github.io/energy-transition-analysis/) · [SDG Explorer India](https://sahiljangra12.github.io/sdg-explorer-india/) · [Planetary pressure chart](https://sahiljangra12.github.io/Thesis/)
 
 ## Featured research
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://sahiljangra12.github.io/charm-city-pulse/"><img src="assets/covers/charm-city-pulse.jpg" alt="Charm City Pulse home screen: a live verdict on whether it is a good day to be outside in Baltimore"></a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/sahiljangra12/charm-city-pulse">Charm City Pulse: Baltimore's environment, live</a></h3>
+The research turned into a public tool. Residents get a plain-language answer about today's heat, cold, air and alerts (NWS, EPA AirNow, USGS, FEMA), a report on their own block with its flood risk, and the nearest cooling or warming center. Researcher mode opens 54 indicators for 199 census tracts and 55 neighbourhoods, with margins of error. A GitHub Actions job rebuilds the newest Census ACS, CDC PLACES and city layers every morning and keeps the last good copy if a source fails.
+<br><br><a href="https://sahiljangra12.github.io/charm-city-pulse/"><b>Open the app →</b></a>
+<br><sub>JavaScript · Leaflet · Chart.js · Python data pipeline · GitHub Actions · live public APIs · installable web app</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/sahiljangra12/baltimore-tree-cooling"><img src="assets/covers/tree-cooling.jpg" alt="Event-study estimates: young street trees cool their 90 m surroundings as they grow, with no change before planting"></a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/sahiljangra12/baltimore-tree-cooling">Do New Street Trees Cool Baltimore?</a></h3>
+A within-neighbourhood event study of 15,166 90 m cells and 111 Landsat summer scenes from 2006 to 2025. Empty planting sites that the city judged plantable serve as the comparison group. Each young street tree lowered its cell's summer surface temperature by 0.026 °C by 2022–25 (95% CI 0.005–0.047), with no change before planting (pre-trend p = 0.63). That is about 0.13 °C for an ordinary planted block face. A naive neighbourhood comparison overstates the effect three- to four-fold.
+<br><br><a href="https://github.com/sahiljangra12/baltimore-tree-cooling/blob/main/paper/Baltimore_Street_Trees_Cooling_Sahil_2026.pdf"><b>Paper (PDF) →</b></a> &nbsp;·&nbsp; <a href="https://github.com/sahiljangra12/baltimore-tree-cooling"><b>Replication package →</b></a>
+<br><sub>Python · Landsat 5/7/8/9 · two-way fixed effects · event study · sensitivity analysis (Cinelli–Hazlett) · LaTeX · CI-verified</sub>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://sahiljangra12.github.io/baltimore-heat-atlas/"><img src="assets/covers/baltimore-heat.jpg" alt="Baltimore Heat Atlas dashboard: census tracts glowing by summer surface temperature"></a>
