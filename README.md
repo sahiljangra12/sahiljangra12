@@ -6,7 +6,7 @@
 <p>
 <a href="https://sahil-ams-ds.lovable.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-website-dark.svg"><img src="assets/btn-website-light.svg" alt="Portfolio website" height="36"></picture></a>
 <a href="mailto:sfnu1@jh.edu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Email" height="36"></picture></a>
-<a href="https://sahiljangra12.github.io/Thesis/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-chart-dark.svg"><img src="assets/btn-chart-light.svg" alt="Interactive thesis chart" height="36"></picture></a>
+<a href="https://sahiljangra12.github.io/Thesis/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-chart-dark.svg"><img src="assets/btn-chart-light.svg" alt="Thesis study site" height="36"></picture></a>
 <a href="https://github.com/sahiljangra12/Academic-Projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-projects-dark.svg"><img src="assets/btn-projects-light.svg" alt="All projects" height="36"></picture></a>
 </p>
 
@@ -17,7 +17,7 @@ I'm a data science graduate student at Johns Hopkins. I study how countries and 
 - [Do new street trees cool Baltimore?](https://github.com/sahiljangra12/baltimore-tree-cooling): a causal event study of 20 years of Landsat data and the city's tree inventory. Each young street tree cools its block measurably within a decade.
 - [Baltimore Heat Atlas](https://github.com/sahiljangra12/baltimore-heat-atlas): a validated heat vulnerability index for Baltimore's census tracts, with a paper and a live dashboard.
 
-**Live:** [Charm City Pulse](https://sahiljangra12.github.io/charm-city-pulse/) · [Baltimore Heat Atlas](https://sahiljangra12.github.io/baltimore-heat-atlas/) · [Global Sustainability Explorer](https://sahiljangra12.github.io/global-sustainability-explorer/) · [Energy transition dashboard](https://sahiljangra12.github.io/energy-transition-analysis/) · [SDG Explorer India](https://sahiljangra12.github.io/sdg-explorer-india/) · [Planetary pressure chart](https://sahiljangra12.github.io/Thesis/)
+**Live:** [Charm City Pulse](https://sahiljangra12.github.io/charm-city-pulse/) · [Baltimore Heat Atlas](https://sahiljangra12.github.io/baltimore-heat-atlas/) · [Global Sustainability Explorer](https://sahiljangra12.github.io/global-sustainability-explorer/) · [Energy transition dashboard](https://sahiljangra12.github.io/energy-transition-analysis/) · [SDG Explorer India](https://sahiljangra12.github.io/sdg-explorer-india/) · [Climate boundary study](https://sahiljangra12.github.io/planetary-pathways/) · [Thesis study](https://sahiljangra12.github.io/Thesis/)
 
 ## Featured research
 
@@ -57,13 +57,14 @@ Which Baltimore neighbourhoods are most at risk in summer heat? Seven summers of
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/sahiljangra12/planetary-pathways"><img src="assets/covers/carbon-cost.jpg" alt="CO2 per person at which half of countries meet the social thresholds, 1991–2022"></a>
+<a href="https://sahiljangra12.github.io/planetary-pathways/"><img src="assets/covers/carbon-cost.jpg" alt="Study site: a night-side 3D Earth with countries glowing by social and climate configuration"></a>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/sahiljangra12/planetary-pathways">Social Shortfall, Climate Overshoot and the Falling Carbon Cost of Development</a></h3>
+<h3><a href="https://sahiljangra12.github.io/planetary-pathways/">Can Basic Needs Be Met Within the Climate Boundary?</a></h3>
+<sub>Working paper · Social Shortfall, Climate Overshoot and the Falling Carbon Cost of Development</sub><br><br>
 Can countries meet basic needs within a fair share of the climate boundary? Across 114 countries from 1990 to 2022, none met four social thresholds while emitting under 1.61 t CO₂ per person. The CO₂ at which half of countries meet them fell from about 26 t to 8.5 t, still 5.3 times the boundary, and only 2 of 41 decoupling countries are cutting fast enough to reach it by 2050.
-<br><br><a href="https://github.com/sahiljangra12/planetary-pathways/blob/main/paper/main.pdf"><b>Read the paper (PDF) →</b></a>
-<br><sub>Python · statsmodels · linearmodels · cluster bootstrap · LaTeX · pytest · fully reproducible</sub>
+<br><br><a href="https://sahiljangra12.github.io/planetary-pathways/"><b>Study site →</b></a> &nbsp;·&nbsp; <a href="https://github.com/sahiljangra12/planetary-pathways/blob/main/paper/main.pdf"><b>Paper (PDF) →</b></a> &nbsp;·&nbsp; <a href="https://github.com/sahiljangra12/planetary-pathways"><b>Code →</b></a>
+<br><sub>Python · statsmodels · cluster bootstrap · LaTeX · three.js · D3 geo · fully reproducible</sub>
 </td>
 </tr>
 </table>
@@ -96,11 +97,11 @@ Renewable energy across 215 countries: the typical country's renewable electrici
 <br><sub>Python · World Bank and UN SDG data · regression · Plotly</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/sahiljangra12/Thesis"><img src="assets/covers/thesis.jpg" alt="Planetary Pressure Index vs life expectancy"></a>
-<h3><a href="https://github.com/sahiljangra12/Thesis">Planetary Boundaries and Development</a></h3>
-My undergraduate thesis: a Planetary Pressure Index for 182 countries, pressure–development clusters, and how countries moved between them from 1990 to 2023.
-<br><br><a href="https://sahiljangra12.github.io/Thesis/"><b>Interactive chart →</b></a>
-<br><sub>Python · scikit-learn · pytest · GitHub Actions</sub>
+<a href="https://sahiljangra12.github.io/Thesis/"><img src="assets/covers/thesis.jpg" alt="Thesis study site: Earth from orbit over North Africa with the title Development. At what planetary cost?"></a>
+<h3><a href="https://sahiljangra12.github.io/Thesis/">Development. At What Planetary Cost?</a></h3>
+My undergraduate thesis: a Planetary Pressure Index for 182 countries, pressure fingerprints for every country, four development–pressure profiles and how countries moved between them from 1990 to 2023.
+<br><br><a href="https://sahiljangra12.github.io/Thesis/"><b>Study site →</b></a> &nbsp;·&nbsp; <a href="https://github.com/sahiljangra12/Thesis"><b>Code and data →</b></a>
+<br><sub>Python · scikit-learn · pytest · D3 geo · interactive essay</sub>
 </td>
 </tr>
 </table>
