@@ -39,7 +39,7 @@ The research turned into a public tool. Residents get a plain-language answer ab
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/sahiljangra12/baltimore-tree-cooling">Do New Street Trees Cool Baltimore?</a></h3>
-A within-neighbourhood event study of 15,166 90 m cells and 111 Landsat summer scenes from 2006 to 2025. Empty planting sites that the city judged plantable serve as the comparison group. Each young street tree lowered its cell's summer surface temperature by 0.026 °C by 2022–25 (95% CI 0.005–0.047), with no change before planting (pre-trend p = 0.63). That is about 0.13 °C for an ordinary planted block face. A naive neighbourhood comparison overstates the effect three- to four-fold.
+A within-neighbourhood event study of 15,160 90 m cells and 111 Landsat summer scenes from 2006 to 2025. Empty planting sites that the city judged plantable serve as the comparison group. Each young street tree lowered its cell's summer surface temperature by 0.026 °C by 2022–25 (95% CI 0.005–0.047), with no change before planting (pre-trend p = 0.63). That is about 0.13 °C for an ordinary planted block face. A naive neighbourhood comparison overstates the effect three- to four-fold.
 <br><br><a href="https://github.com/sahiljangra12/baltimore-tree-cooling/blob/main/paper/Baltimore_Street_Trees_Cooling_Sahil_2026.pdf"><b>Paper (PDF) →</b></a> &nbsp;·&nbsp; <a href="https://github.com/sahiljangra12/baltimore-tree-cooling"><b>Replication package →</b></a>
 <br><sub>Python · Landsat 5/7/8/9 · two-way fixed effects · event study · sensitivity analysis (Cinelli–Hazlett) · LaTeX · CI-verified</sub>
 </td>
