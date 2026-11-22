@@ -4,7 +4,7 @@
 </picture>
 
 <p>
-<a href="https://sahil-ams-ds.lovable.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-website-dark.svg"><img src="assets/btn-website-light.svg" alt="Portfolio website" height="36"></picture></a>
+<a href="https://sahiljangra12.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-website-dark.svg"><img src="assets/btn-website-light.svg" alt="Portfolio website" height="36"></picture></a>
 <a href="mailto:sfnu1@jh.edu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Email" height="36"></picture></a>
 <a href="https://sahiljangra12.github.io/Thesis/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-chart-dark.svg"><img src="assets/btn-chart-light.svg" alt="Thesis study site" height="36"></picture></a>
 <a href="https://github.com/sahiljangra12/Academic-Projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-projects-dark.svg"><img src="assets/btn-projects-light.svg" alt="All projects" height="36"></picture></a>
